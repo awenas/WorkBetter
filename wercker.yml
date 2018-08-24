@@ -1,4 +1,4 @@
-box:
+box: 
   id: alpine:3.2
 build:
   steps:
