@@ -1,6 +1,6 @@
 box: 
   id: alpine:3.2
-build:
+build: 
   steps:
     - script:
       name: download
